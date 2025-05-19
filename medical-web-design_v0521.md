@@ -7,7 +7,7 @@
 - 減少管理成本：帳密、網站空間、套件安裝、資安防護
 - 改變：新聞公告在科網顯示、醫師資料易管理、即時顯示
 - 舊科網：資料封存不再更新
-![整併目標](goal2.png)
+![整併目標](pic/goal2.png)
 ---
 ## 簡報三大重點(醫療科網)
 - 更新醫療科首頁
@@ -20,7 +20,7 @@
 ---
 ## 新醫療科網首頁
 ![測試](pic/homepage.png)
-![[pic/homepage.png]]
+![醫療科首頁](pic/homepage.png)
 
 ---
 ## 一、編輯醫療科首頁步驟
@@ -29,15 +29,16 @@
 - 形象照請存路徑：images/00MD/medical_team，照片尺寸：900 * 600px。
 - 簡介區塊段落內容可自行調整。
 - 編輯內容存檔前，請一定要清除「多餘格式」。
-![[pic/sp-page01.png]]
-![[pic/sp-cate-editor.png]]
+![編輯醫療科首頁](pic/sp-page01.png)
+!(開啟sp編輯器)[pic/sp-cate-editor.png]
 ![[pic/medical-speditor.png]]
 
 ---
 ## 新醫療團隊頁面
 
-![[pic/medical-team.png]]
-![[pic/lin.png]]
+![醫療團隊照片縮圖頁面](pic/medical-team.png)
+
+![醫師簡介](pic/lin.png)
 
 ---
 ## 二、編輯醫療團隊資料步驟
@@ -50,29 +51,29 @@
 	- 網路掛號：?dtno=醫師編號
 	- 更新醫師資料，存檔前要按下「清除多餘格式按鈕」
 	- 重要：最後要儲存並且關閉檔案(避免檔案鎖死，他人無法編輯)
-![[pic/dr-pic.png]]
-![[pic/editor-lin.png]]
-![[pic/editor-lin2.png]]
+![醫師縮圖](pic/dr-pic.png)
+![選sp page來編輯](pic/editor-lin.png)
+![依照區塊來編輯](pic/editor-lin2.png)
 - 若找不到醫師檔案，請依以下步驟來新增醫師資料：
 	- 內容->文章->篩選->分類(醫療科名稱)->標籤(00-醫師)
 	- 按「新建」->名稱(OOO醫師)->別名(dr醫師編號)->分類(醫療科名稱)->標籤(00-醫師)->選「SP PageBuilder」->直接先按「儲存」
 	- 完成上述步驟後，按「Edit With Frontend Editor」->點選右上角「...」按鈕->Export，將以下[醫師資料範例JSON檔](https://drive.google.com/file/d/1oBwWFhSFFyXtu0lAE-Z4JE9h6cTzBJcY/view?usp=sharing)匯入。
 	- 匯入檔案後，依照前一階段編修資料方式進行更新後，再存檔退出。
 	- 提醒：醫師照片統一路徑是images/00MD/dr/ （檔案名稱是dr+醫師編號.jpg）(公傳統一上傳)
-![[pic/new-dr.png]]
-![[pic/import01.png]]
-![[pic/dr-tmp.png]]
+![說明每個區塊](pic/new-dr.png)
+![匯入醫師範例檔案](pic/import01.png)
+![匯入後開始編輯](pic/dr-tmp.png)
 
 ---
 ## 最新公告、衛教文章
-![[pic/news-edu.png]]
+![公告和衛教](pic/news-edu.png)
 
 ---
 ## 三、編輯公告、衛教文章
 - 內容->文章->篩選(醫療科別)
 - 按下「新建+」 按鈕來進行編輯，最後記得從標籤來決定是「公告」還是「衛教文章」
 - 存檔前，請按下「清除格式按鈕」
-![[pic/edit-news-edu.png]]
+![公告或衛教文章發佈](pic/edit-news-edu.png)
 ---
 ## 五大超級無敵重要提醒
 1. 請勿直接複製Notes上內容，貼到Joomla文章上。
