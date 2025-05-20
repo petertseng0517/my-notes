@@ -46,7 +46,7 @@
 
 ---
 ## 醫療科首頁編輯教學
-- 操作教學影片請點下圖
+- <span style="color:red">操作教學影片請點下圖</span>
 [![醫療科首頁編輯步驟](https://img.youtube.com/vi/tJuq3MozA2w/0.jpg)](https://www.youtube.com/watch?v=tJuq3MozA2w)
 
 - 用SP Page編輯器更新醫療科首頁。(元件->SP Page Buider->Pages)
@@ -69,7 +69,7 @@
 
 ---
 ## 醫療團隊編輯教學
-- 操作教學影片請點下圖
+- <span style="color:red">操作教學影片請點下圖</span>
 [![醫療科首頁編輯步驟](https://img.youtube.com/vi/wYV58wiVkn8/0.jpg)](https://www.youtube.com/watch?v=wYV58wiVkn8)
 
 - 第一種情況：更新既有醫師資料 (以林修賢醫師為例)
