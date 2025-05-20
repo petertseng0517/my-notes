@@ -22,11 +22,13 @@
 	- 第一階段(醫務部，5/27-6/30)：整併科網(首頁、團隊資料)、封存舊科網資料
 	- 第二階段(各醫事單位，6/3-6/15)：依屬性整併或獨立網站
 	- 第三階段(各中心，6/16-6/30)：依屬性整併或獨立網站
+
 ![整併目標](pic/goal2.png)
 - 此文件有三大教學重點。系統登入連結是 [花蓮慈院管理後台網址](https://hlmedit.tzuchi.com.tw/hualien/home/administrator/)
 	- 更新醫療科首頁
 	- 更新醫師資料
 	- 發佈醫療科新聞、公告、衛教
+
 ---
 ## 該用哪種編輯器
 - 要先確定你要更新的內容，再來決定用的編輯工具。
@@ -46,8 +48,10 @@
 ## 醫療科首頁編輯教學
 - 操作教學影片請點下圖
 [![醫療科首頁編輯步驟](https://img.youtube.com/vi/tJuq3MozA2w/0.jpg)](https://www.youtube.com/watch?v=tJuq3MozA2w)
+
 - 用SP Page編輯器更新醫療科首頁。(元件->SP Page Buider->Pages)
 ![編輯醫療科首頁](pic/sp-page01.png)
+
 - 篩選分類「醫療科」->點選該科的「前端編輯器」
 ![開啟sp編輯器](pic/sp-cate-editor.png)
 - 形象照請存路徑：images/00MD/medical_team，照片尺寸：900 * 600px。
@@ -60,12 +64,14 @@
 
 ![醫療團隊照片縮圖頁面](pic/medical-team.png)
 
+
 ![醫師簡介](pic/lin.png)
 
 ---
 ## 醫療團隊編輯教學
 - 操作教學影片請點下圖
 [![醫療科首頁編輯步驟](https://img.youtube.com/vi/wYV58wiVkn8/0.jpg)](https://www.youtube.com/watch?v=wYV58wiVkn8)
+
 - 第一種情況：更新既有醫師資料 (以林修賢醫師為例)
 	- 內容->文章->篩選->分類(醫療科名稱)->標籤(00-醫師)
 	- 用醫師姓名來尋找檔案。
@@ -80,15 +86,21 @@
 ![選sp page來編輯](pic/editor-lin.png)
 ![依照區塊來編輯](pic/editor-lin2.png)
 ![醫師縮圖](pic/dr-pic.png)
+
 - 第二種情況：新增醫師資料
 	- 內容->文章->篩選->分類(醫療科名稱)->標籤(00-醫師)
 	- 按「新建」->名稱(OOO醫師)->別名(dr醫師編號)->分類(醫療科名稱)->標籤(00-醫師)->選「SP PageBuilder」->直接先按「儲存」
+
 ![說明每個區塊](pic/new-dr.png)
-	- 完成上述步驟後，按「Edit With Frontend Editor」->點選右上角「...」按鈕->Export，將以下[醫師資料範例JSON檔](https://drive.google.com/file/d/1oBwWFhSFFyXtu0lAE-Z4JE9h6cTzBJcY/view?usp=sharing)匯入。
+
+- 完成上述步驟後，按「Edit With Frontend Editor」->點選右上角「...」按鈕->Export，將以下[醫師資料範例JSON檔](https://drive.google.com/file/d/1oBwWFhSFFyXtu0lAE-Z4JE9h6cTzBJcY/view?usp=sharing)匯入。
+
 ![匯入醫師範例檔案](pic/import01.png)
-	- 匯入檔案後，依照前一階段編修資料方式進行更新後，再存檔退出。
-	- 提醒：醫師照片統一路徑是images/00MD/dr/ （檔案名稱是dr+醫師編號.jpg）(公傳統一上傳)
-	- 確認醫師排列縮圖：從文章去點選「圖片與連結」，新增正確的摘要圖片。
+
+- 匯入檔案後，依照前一階段編修資料方式進行更新後，再存檔退出。
+- 提醒：醫師照片統一路徑是images/00MD/dr/ （檔案名稱是dr+醫師編號.jpg）(公傳統一上傳)
+- 確認醫師排列縮圖：從文章去點選「圖片與連結」，新增正確的摘要圖片。
+
 ![匯入後開始編輯](pic/dr-tmp.png)
 
 ---
@@ -100,6 +112,7 @@
 - 內容->文章->篩選(醫療科別)
 - 按下「新建+」 按鈕來進行編輯，最後記得從標籤來決定是「公告」還是「衛教文章」
 - 存檔前，請按下「清除格式按鈕」
+
 ![公告或衛教文章](pic/edit-news-edu.png)
 
 ---
@@ -108,7 +121,8 @@
 2. 勿刪除或編輯不屬於醫務部的文章或媒體檔案內容。
 3. 勿自行按下Joomla版本升級按鈕。
 4. 勿借帳號供他人使用。
-5. 勿上傳不符合規格尺寸或檔案過大的圖片(可先用[faststone](https://www.faststone.org/)軟體編輯圖片)
+5. 勿上傳不符合規格尺寸或檔案過大的圖片，圖片命名請用英文或數字(勿用中文)。
+
 ---
 ## 聯絡窗口
 - 網站編輯：網管(曾建瑋，分機：15295)
