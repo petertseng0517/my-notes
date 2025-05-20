@@ -42,7 +42,10 @@
 ![編輯醫療科首頁](pic/sp-page01.png)
 ![開啟sp編輯器](pic/sp-cate-editor.png)
 ![編輯科網首頁](pic/medical-speditor.png)
-![醫療科首頁編輯步驟](https://www.youtube.com/watch?v=tJuq3MozA2w)
+
+- 請點選操作教學影片 ↓
+[![醫療科首頁編輯步驟](https://img.youtube.com/vi/tJuq3MozA2w/0.jpg)](https://www.youtube.com/watch?v=tJuq3MozA2w)
+
 
 ---
 ## 新醫療團隊頁面
@@ -88,10 +91,17 @@
 ![公告或衛教文章](pic/edit-news-edu.png)
 
 ---
-
 ## 五大超級重要提醒
 1. 請勿直接複製Notes上內容，貼到Joomla文章上。
 2. 請勿刪除或編輯不屬於醫務部的文章或媒體檔案內容。
 3. 請勿自行按下Joomla版本升級按鈕。
 4. 請使用自己帳號編輯，也不要外借帳號供他人使用。
 5. 請勿上傳不符合規格尺寸或檔案過大的圖片(可先用[faststone](https://www.faststone.org/)軟體編輯圖片)
+---
+## 重要日程
+
+| 日期  | 工作        | 單位  |
+| --- | --------- | --- |
+|     | 搬移資料至新伺服器 | 公傳  |
+|     | 更新醫療科新首頁  | 醫務部 |
+|     |           |     |
