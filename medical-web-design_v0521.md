@@ -42,6 +42,7 @@
 ![編輯醫療科首頁](pic/sp-page01.png)
 ![開啟sp編輯器](pic/sp-cate-editor.png)
 ![編輯科網首頁](pic/medical-speditor.png)
+![醫療科首頁編輯步驟](https://www.youtube.com/watch?v=tJuq3MozA2w)
 
 ---
 ## 新醫療團隊頁面
@@ -60,7 +61,8 @@
 	- 醫師照片路徑：images/00MD/dr/醫師編號.jpg
 	- 網路掛號：?dtno=醫師編號
 	- 更新醫師資料，存檔前要按下「清除多餘格式按鈕」
-	- 重要：最後要儲存並且關閉檔案(避免檔案鎖死，他人無法編輯)
+- 提醒1：最後要儲存並且關閉檔案(避免檔案鎖死，他人無法編輯)
+- 提醒2：各科醫師照片修圖及上傳工作 (負責：公傳陳安俞)
 ![醫師縮圖](pic/dr-pic.png)
 ![選sp page來編輯](pic/editor-lin.png)
 ![依照區塊來編輯](pic/editor-lin2.png)
